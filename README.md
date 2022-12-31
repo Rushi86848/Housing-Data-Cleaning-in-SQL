@@ -23,7 +23,7 @@ From HousingData.dbo.Sheet;
 5. Change Y and N to Yes and No in "Sold as Vacant" field.
 
 
-6 .Remove Duplicates
+6. Remove Duplicates.
 
 
 7. Delete Unused Columns
