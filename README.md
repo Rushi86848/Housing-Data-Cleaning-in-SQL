@@ -3,10 +3,10 @@ Data Cleaning is a big part of Data Analysis Project which Data analyst do. So t
 
 ### Operatios performed for Data Cleaning:
 
-
+``` 
 Select *
 From HousingData.dbo.Sheet;
-
+```
 
 1. Standardize Date Format
 
